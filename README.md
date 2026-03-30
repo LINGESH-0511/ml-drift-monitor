@@ -33,4 +33,4 @@ ML models in production suffer from **silent failures** because the data they en
 | 📄 **Exportable Reports** | JSON and CSV formats for documentation |
 | 🚀 **Real-time Analysis** | Fast processing with instant results |
 
-## 🏗️ Architecture
+
